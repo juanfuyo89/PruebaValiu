@@ -1,0 +1,17 @@
+{
+  "name": "valiutest",
+  "version": "1.0.0",
+  "description": "Prueba técnica Valiu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Juan Carlos Fuyo González",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
